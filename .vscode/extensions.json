@@ -3,6 +3,10 @@
     "Vue.volar",
     "Vue.vscode-typescript-vue-plugin",
     "dbaeumer.vscode-eslint",
-    "esbenp.prettier-vscode"
+    "stylelint.vscode-stylelint",
+    "esbenp.prettier-vscode",
+    "lokalise.i18n-ally",
+    "antfu.iconify",
+    "mikestead.dotenv"
   ]
 }

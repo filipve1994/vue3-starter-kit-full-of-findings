@@ -10,7 +10,7 @@
   ],
   "compilerOptions": {
     "composite": true,
-    "baseUrl": "../tmp/vue3-starter-kit-full-of-findings",
+    "baseUrl": ".",
     "paths": {
       "@/*": ["./src/*"]
     }

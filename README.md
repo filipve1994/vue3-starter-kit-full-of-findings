@@ -50,3 +50,18 @@ pnpm test:unit
 ```sh
 pnpm lint
 ```
+
+## Used packages and libraries
+
+- vueuse
+  - core => check if something needs to be configured for the project to setup
+  - motion => check if something needs to be configured for the project to setup
+  - unhead => check if something needs to be configured for the project to setup
+  - router => => check if something needs to be configured for the project to setup
+  - integrations => => check if something needs to be configured for the project to setup
+  - 
+- element-plus => check if something needs to be configured for the project to setup
+- unocss => check if something needs to be configured for the project to setup
+- @vue/test-utils => check if something needs to be configured for the project to setup
+- vue-i18n => whole configuration setup needs to be done yet
+- 
